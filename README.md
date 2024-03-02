@@ -1,9 +1,14 @@
 ### Hi😄 I am Chiu, a graduate student from NTU🏫
 
-Languages and Tools
-I mostly used Python
+My research is about using machine learning 👨‍💻 to localize subacromial feature on ultrasound images🩺 </br>
+This academical result is published on the leading medical journal 《Ultrasonics》-- [this is my paper🎉](https://www.sciencedirect.com/science/article/abs/pii/S0041624X23001336)
 
-and took the CS50 from Harvard for better 
+My github is my cozy little space for my side projects about machine learning on images using python ![alt python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+
+In those projects, I mostly use pytorch ![alt pytorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) and little tensorflow ![alt tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
+
+Recent I took the CS50 class from Harvard <img src="https://github.com/NTU-Chiu/NTU-Chiu/assets/91785016/27f0ab2a-2787-4a10-a763-78d6435933cf.png" alt="cs50" width="100">
+to polish the programming skills⚡
 <!--
 **NTU-Chiu/NTU-Chiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
