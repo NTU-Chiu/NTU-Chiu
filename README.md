@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi😄 I am Chiu, a graduate student from NTU🏫
 
+Languages and Tools
+I mostly used Python
+
+and took the CS50 from Harvard for better 
 <!--
 **NTU-Chiu/NTU-Chiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
